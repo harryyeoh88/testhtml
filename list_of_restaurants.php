@@ -23,7 +23,7 @@
                             //comment: this server info
                             $serverName = "simplewebtp055225.database.windows.net";
                             $connectionOptions = array(
-                                                  "Database" => "simpleweb",
+                                                  "Database" => "restaurant",
                                                   "Uid" => "simpleweb",
                                                   "PWD" => "Simple@web");
                       
